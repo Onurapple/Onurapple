@@ -48,18 +48,14 @@
 </div> -->
 
   <br/>
-  <div align="center">
-    
- <img align="left" alt="Onur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Onurapple&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Onurapple&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD382B&fire=DD2727)](https://www.linkedin.com/in/sinan-altundag/)
-
+  <div> 
+  <a href="https://www.linkedin.com/in/developeronur/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me)](https://git.io/typing-svg)
+<br>
+<div align="left">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Onurapple&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onurapple&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!-- ### 📩 Connect with me: -->
 
