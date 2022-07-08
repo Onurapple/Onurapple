@@ -1,6 +1,3 @@
-<a href="https://www.linkedin.com/in/sinan-altundag/">
-<img src="images/developerReactBackground.jpeg" width="400" align="right" alt="logo">
-</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=0765F7&center=true&vCenter=true&lines=Hello%F0%9F%91%8B+My+name+is+Onur+++)](https://git.io/typing-svg)
 
